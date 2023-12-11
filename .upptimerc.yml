@@ -1,31 +1,34 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: periodo
+repo: status
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: PeriodO data
+    url: https://data.perio.do
+  - name: PeriodO client
+    url: https://client.perio.do
+  - name: PeriodO TTL
+    url: https://n2t.net/ark:/99152/p0dataset.ttl
+  - name: PeriodO CSV
+    url: https://n2t.net/ark:/99152/p0dataset.csv
+  - name: PeriodO places graph
+    url: https://data.perio.do/graphs/places
+  - name: PeriodO legacy subdomain
+    url: https://test.perio.do
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  # cname: demo.upptime.js.org
+  baseUrl: /status
+  logoUrl: https://raw.githubusercontent.com/periodo/periodo-website/source/images/sundial.svg
+  name: PeriodO status
+  introTitle: "Current and past status of PeriodO HTTP services."
+  introMessage: This page tracks the status of various HTTP services maintained by the [PeriodO](https://github.com/periodo) project.
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: PeriodO
+      href: https://github.com/$OWNER
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
