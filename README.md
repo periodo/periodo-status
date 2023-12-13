@@ -1,6 +1,6 @@
 # [📈 Live Status](https://periodo.github.io/status): <!--live status--> **🟩 All systems operational**
 
-This repository contains the open-source uptime monitor and status page for [PeriodO](http://perio.do).
+This repository manages status and uptime monitoring for [PeriodO](http://perio.do).
 
 [![Uptime CI](https://github.com/periodo/status/workflows/Uptime%20CI/badge.svg)](https://github.com/periodo/status/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/periodo/status/workflows/Response%20Time%20CI/badge.svg)](https://github.com/periodo/status/actions?query=workflow%3A%22Response+Time+CI%22)
