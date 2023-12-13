@@ -24,9 +24,3 @@ This repository contains the open-source uptime monitor and status page for [Per
 <!--end: status pages-->
 
 [**Visit our status website →**](https://periodo.github.io/periodo-status)
-
-## 📄 License
-
-- Powered by: [Upptime](https://github.com/upptime/upptime)
-- Code: [MIT](./LICENSE) © [PeriodO](http://perio.do)
-- Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
