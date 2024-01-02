@@ -94,19 +94,19 @@
     "url": "https://test.perio.do",
     "icon": "https://icons.duckduckgo.com/ip3/test.perio.do.ico",
     "slug": "period-o-legacy-subdomain",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1177,
     "timeDay": 224,
     "timeWeek": 801,
     "timeMonth": 1177,
     "timeYear": 1177,
     "dailyMinutesDown": {
-      "2024-01-02": 6
+      "2024-01-02": 0
     }
   }
 ]
