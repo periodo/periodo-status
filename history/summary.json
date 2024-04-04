@@ -40,28 +40,30 @@
     "url": "https://n2t.net/ark:/99152/p0dataset.ttl",
     "icon": "https://icons.duckduckgo.com/ip3/n2t.net.ico",
     "slug": "period-o-ttl",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1228,
     "timeDay": 1358,
     "timeWeek": 798,
     "timeMonth": 902,
     "timeYear": 1228,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-04": 3
+    }
   },
   {
     "name": "PeriodO CSV",
     "url": "https://n2t.net/ark:/99152/p0dataset.csv",
     "icon": "https://icons.duckduckgo.com/ip3/n2t.net.ico",
     "slug": "period-o-csv",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 219,
@@ -69,16 +71,18 @@
     "timeWeek": 166,
     "timeMonth": 176,
     "timeYear": 219,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-04": 2
+    }
   },
   {
     "name": "PeriodO places graph",
     "url": "https://data.perio.do/graphs/places",
     "icon": "https://icons.duckduckgo.com/ip3/data.perio.do.ico",
     "slug": "period-o-places-graph",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,7 +91,9 @@
     "timeWeek": 57,
     "timeMonth": 68,
     "timeYear": 90,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-04": 0
+    }
   },
   {
     "name": "PeriodO legacy subdomain",
