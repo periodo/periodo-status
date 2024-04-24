@@ -4,19 +4,19 @@
     "url": "https://data.perio.do",
     "icon": "https://icons.duckduckgo.com/ip3/data.perio.do.ico",
     "slug": "period-o-data",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 286,
-    "timeDay": 178,
-    "timeWeek": 214,
-    "timeMonth": 332,
-    "timeYear": 286,
+    "time": 285,
+    "timeDay": 170,
+    "timeWeek": 208,
+    "timeMonth": 326,
+    "timeYear": 285,
     "dailyMinutesDown": {
-      "2024-04-24": 1
+      "2024-04-24": 6
     }
   },
   {
