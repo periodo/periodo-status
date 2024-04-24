@@ -4,10 +4,10 @@
     "url": "https://data.perio.do",
     "icon": "https://icons.duckduckgo.com/ip3/data.perio.do.ico",
     "slug": "period-o-data",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 286,
@@ -15,7 +15,9 @@
     "timeWeek": 214,
     "timeMonth": 332,
     "timeYear": 286,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-24": 1
+    }
   },
   {
     "name": "PeriodO client",
@@ -95,18 +97,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/test.perio.do.ico",
     "slug": "period-o-legacy-subdomain",
     "status": "up",
-    "uptime": "99.67%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.04%",
-    "uptimeYear": "99.67%",
+    "uptime": "99.68%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.06%",
+    "uptimeYear": "99.68%",
     "time": 1384,
     "timeDay": 4391,
     "timeWeek": 2087,
     "timeMonth": 1969,
     "timeYear": 1384,
     "dailyMinutesDown": {
-      "2024-04-24": 7,
       "2024-04-12": 413,
       "2024-03-19": 66,
       "2024-03-18": 150
