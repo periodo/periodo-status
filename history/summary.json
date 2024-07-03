@@ -4,19 +4,19 @@
     "url": "https://data.perio.do",
     "icon": "https://icons.duckduckgo.com/ip3/data.perio.do.ico",
     "slug": "period-o-data",
-    "status": "down",
+    "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "65.66%",
-    "uptimeWeek": "95.09%",
-    "uptimeMonth": "98.74%",
+    "uptimeDay": "65.42%",
+    "uptimeWeek": "95.06%",
+    "uptimeMonth": "98.73%",
     "uptimeYear": "99.81%",
     "time": 241,
-    "timeDay": 43,
-    "timeWeek": 112,
-    "timeMonth": 129,
+    "timeDay": 168,
+    "timeWeek": 135,
+    "timeMonth": 134,
     "timeYear": 241,
     "dailyMinutesDown": {
-      "2024-07-03": 495,
+      "2024-07-03": 498,
       "2024-06-04": 55,
       "2024-06-03": 3
     }
@@ -49,19 +49,19 @@
     "url": "https://n2t.net/ark:/99152/p0dataset.ttl",
     "icon": "https://icons.duckduckgo.com/ip3/n2t.net.ico",
     "slug": "period-o-ttl",
-    "status": "down",
+    "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "66.99%",
-    "uptimeWeek": "95.28%",
+    "uptimeDay": "66.75%",
+    "uptimeWeek": "95.25%",
     "uptimeMonth": "98.91%",
     "uptimeYear": "99.84%",
-    "time": 1113,
-    "timeDay": 1607,
-    "timeWeek": 1670,
-    "timeMonth": 1078,
-    "timeYear": 1113,
+    "time": 1118,
+    "timeDay": 1798,
+    "timeWeek": 1727,
+    "timeMonth": 1111,
+    "timeYear": 1118,
     "dailyMinutesDown": {
-      "2024-07-03": 476
+      "2024-07-03": 479
     }
   },
   {
@@ -90,18 +90,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/data.perio.do.ico",
     "slug": "period-o-places-graph",
     "status": "up",
-    "uptime": "99.84%",
-    "uptimeDay": "67.98%",
-    "uptimeWeek": "95.43%",
-    "uptimeMonth": "98.95%",
-    "uptimeYear": "99.84%",
+    "uptime": "99.85%",
+    "uptimeDay": "68.92%",
+    "uptimeWeek": "95.56%",
+    "uptimeMonth": "98.98%",
+    "uptimeYear": "99.85%",
     "time": 79,
     "timeDay": 73,
     "timeWeek": 56,
     "timeMonth": 54,
     "timeYear": 79,
     "dailyMinutesDown": {
-      "2024-07-03": 462
+      "2024-07-03": 448
     }
   },
   {
