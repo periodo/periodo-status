@@ -6,9 +6,9 @@
     "slug": "period-o-data",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "98.85%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "98.86%",
     "uptimeYear": "99.82%",
     "time": 232,
     "timeDay": 78,
@@ -16,7 +16,6 @@
     "timeMonth": 107,
     "timeYear": 232,
     "dailyMinutesDown": {
-      "2024-07-16": 7,
       "2024-07-03": 498,
       "2024-06-04": 55,
       "2024-06-03": 3
@@ -52,9 +51,9 @@
     "slug": "period-o-ttl",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "98.48%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "98.86%",
+    "uptimeDay": "98.88%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "98.87%",
     "uptimeYear": "99.84%",
     "time": 1155,
     "timeDay": 1550,
@@ -62,7 +61,7 @@
     "timeMonth": 1485,
     "timeYear": 1155,
     "dailyMinutesDown": {
-      "2024-07-16": 22,
+      "2024-07-16": 16,
       "2024-07-03": 479
     }
   },
@@ -73,9 +72,9 @@
     "slug": "period-o-csv",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "98.91%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "98.92%",
     "uptimeYear": "99.85%",
     "time": 235,
     "timeDay": 331,
@@ -83,7 +82,6 @@
     "timeMonth": 411,
     "timeYear": 235,
     "dailyMinutesDown": {
-      "2024-07-16": 4,
       "2024-07-03": 472
     }
   },
@@ -94,9 +92,9 @@
     "slug": "period-o-places-graph",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "98.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "98.98%",
     "uptimeYear": "99.86%",
     "time": 77,
     "timeDay": 40,
@@ -104,7 +102,6 @@
     "timeMonth": 54,
     "timeYear": 77,
     "dailyMinutesDown": {
-      "2024-07-16": 3,
       "2024-07-03": 448
     }
   },
@@ -113,9 +110,9 @@
     "url": "https://test.perio.do",
     "icon": "https://icons.duckduckgo.com/ip3/test.perio.do.ico",
     "slug": "period-o-legacy-subdomain",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.77%",
@@ -125,6 +122,7 @@
     "timeMonth": 1610,
     "timeYear": 1444,
     "dailyMinutesDown": {
+      "2024-07-16": 0,
       "2024-06-04": 55,
       "2024-06-03": 1,
       "2024-04-27": 27,
