@@ -49,11 +49,11 @@
     "url": "https://n2t.net/ark:/99152/p0dataset.ttl",
     "icon": "https://icons.duckduckgo.com/ip3/n2t.net.ico",
     "slug": "period-o-ttl",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.91%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "98.90%",
     "uptimeYear": "99.85%",
     "time": 1150,
     "timeDay": 1560,
@@ -61,6 +61,7 @@
     "timeMonth": 1479,
     "timeYear": 1150,
     "dailyMinutesDown": {
+      "2024-07-16": 3,
       "2024-07-03": 479
     }
   },
@@ -69,10 +70,10 @@
     "url": "https://n2t.net/ark:/99152/p0dataset.csv",
     "icon": "https://icons.duckduckgo.com/ip3/n2t.net.ico",
     "slug": "period-o-csv",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "98.92%",
     "uptimeYear": "99.85%",
     "time": 234,
@@ -81,6 +82,7 @@
     "timeMonth": 420,
     "timeYear": 234,
     "dailyMinutesDown": {
+      "2024-07-16": 2,
       "2024-07-03": 472
     }
   },
@@ -89,9 +91,9 @@
     "url": "https://data.perio.do/graphs/places",
     "icon": "https://icons.duckduckgo.com/ip3/data.perio.do.ico",
     "slug": "period-o-places-graph",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.98%",
     "uptimeYear": "99.86%",
@@ -101,6 +103,7 @@
     "timeMonth": 56,
     "timeYear": 77,
     "dailyMinutesDown": {
+      "2024-07-16": 0,
       "2024-07-03": 448
     }
   },
@@ -111,9 +114,9 @@
     "slug": "period-o-legacy-subdomain",
     "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.77%",
     "time": 1445,
     "timeDay": 1703,
@@ -121,7 +124,6 @@
     "timeMonth": 1633,
     "timeYear": 1445,
     "dailyMinutesDown": {
-      "2024-07-16": 7,
       "2024-06-04": 55,
       "2024-06-03": 1,
       "2024-04-27": 27,
