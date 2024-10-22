@@ -1,7 +1,7 @@
 url: https://test.perio.do
-status: up
-code: 200
-responseTime: 1377
-lastUpdated: 2024-10-21T23:11:56.525Z
+status: down
+code: 502
+responseTime: 15522
+lastUpdated: 2024-10-22T18:35:02.735Z
 startTime: 2023-12-11T01:56:00.910Z
 generator: Upptime <https://github.com/upptime/upptime>
