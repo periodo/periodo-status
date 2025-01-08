@@ -51,18 +51,19 @@
     "url": "https://n2t.net/ark:/99152/p0dataset.ttl",
     "icon": "https://icons.duckduckgo.com/ip3/n2t.net.ico",
     "slug": "period-o-ttl",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.90%",
+    "uptimeYear": "99.89%",
     "time": 1452,
     "timeDay": 1565,
     "timeWeek": 2030,
     "timeMonth": 1840,
     "timeYear": 1426,
     "dailyMinutesDown": {
+      "2025-01-08": 2,
       "2024-09-01": 56,
       "2024-07-16": 16,
       "2024-07-03": 479
@@ -73,9 +74,9 @@
     "url": "https://n2t.net/ark:/99152/p0dataset.csv",
     "icon": "https://icons.duckduckgo.com/ip3/n2t.net.ico",
     "slug": "period-o-csv",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
@@ -85,6 +86,7 @@
     "timeMonth": 329,
     "timeYear": 269,
     "dailyMinutesDown": {
+      "2025-01-08": 0,
       "2024-09-01": 56,
       "2024-07-03": 472
     }
