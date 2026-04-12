@@ -4,10 +4,10 @@
     "url": "https://data.perio.do",
     "icon": "https://icons.duckduckgo.com/ip3/data.perio.do.ico",
     "slug": "period-o-data",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 250,
@@ -16,6 +16,7 @@
     "timeMonth": 424,
     "timeYear": 263,
     "dailyMinutesDown": {
+      "2026-04-12": 1,
       "2026-03-02": 45,
       "2026-02-05": 157
     }
