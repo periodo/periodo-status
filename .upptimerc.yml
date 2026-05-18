@@ -7,9 +7,11 @@ sites:
   - name: PeriodO client
     url: https://client.perio.do
   - name: PeriodO TTL
-    url: https://n2t.net/ark:/99152/p0dataset.ttl
+    url: https://data.perio.do/dataset.ttl
   - name: PeriodO CSV
-    url: https://n2t.net/ark:/99152/p0dataset.csv
+    url: https://data.perio.do/dataset.csv
+  - name: PeriodO ARK resolution (n2t.net)
+    url: https://n2t.net/ark:/99152/p0dataset.json
   - name: PeriodO places graph
     url: https://data.perio.do/graphs/places
   - name: PeriodO legacy subdomain
