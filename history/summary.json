@@ -115,11 +115,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/n2t.net.ico",
     "slug": "period-o-ark-resolution-n2t-net",
     "status": "down",
-    "uptime": "97.95%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "97.20%",
-    "uptimeMonth": "97.95%",
-    "uptimeYear": "97.95%",
+    "uptime": "97.85%",
+    "uptimeDay": "98.20%",
+    "uptimeWeek": "96.95%",
+    "uptimeMonth": "97.85%",
+    "uptimeYear": "97.85%",
     "time": 961,
     "timeDay": 754,
     "timeWeek": 1078,
@@ -128,7 +128,7 @@
     "dailyMinutesDown": {
       "2026-05-18": 234,
       "2026-06-03": 281,
-      "2026-06-05": 0
+      "2026-06-05": 26
     }
   },
   {
