@@ -114,17 +114,17 @@
     "url": "https://n2t.net/ark:/99152/p0dataset.json",
     "icon": "https://icons.duckduckgo.com/ip3/n2t.net.ico",
     "slug": "period-o-ark-resolution-n2t-net",
-    "status": "up",
-    "uptime": "97.20%",
-    "uptimeDay": "95.56%",
-    "uptimeWeek": "99.37%",
+    "status": "down",
+    "uptime": "97.23%",
+    "uptimeDay": "95.54%",
+    "uptimeWeek": "99.36%",
     "uptimeMonth": "96.72%",
-    "uptimeYear": "97.20%",
-    "time": 944,
-    "timeDay": 789,
-    "timeWeek": 1024,
-    "timeMonth": 964,
-    "timeYear": 944,
+    "uptimeYear": "97.23%",
+    "time": 934,
+    "timeDay": 657,
+    "timeWeek": 948,
+    "timeMonth": 949,
+    "timeYear": 934,
     "dailyMinutesDown": {
       "2026-05-18": 234,
       "2026-06-03": 281,
@@ -135,7 +135,8 @@
       "2026-06-13": 26,
       "2026-06-15": 144,
       "2026-06-16": 88,
-      "2026-06-28": 64
+      "2026-06-28": 64,
+      "2026-06-29": 0
     }
   },
   {
