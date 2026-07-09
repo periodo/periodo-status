@@ -164,17 +164,17 @@
     "url": "https://test.perio.do",
     "icon": "https://icons.duckduckgo.com/ip3/test.perio.do.ico",
     "slug": "period-o-legacy-subdomain",
-    "status": "down",
-    "uptime": "99.86%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.93%",
-    "time": 1391,
-    "timeDay": 1453,
-    "timeWeek": 1454,
-    "timeMonth": 1696,
-    "timeYear": 1462,
+    "status": "up",
+    "uptime": "99.85%",
+    "uptimeDay": "89.75%",
+    "uptimeWeek": "98.54%",
+    "uptimeMonth": "99.66%",
+    "uptimeYear": "99.91%",
+    "time": 1467,
+    "timeDay": 19466,
+    "timeWeek": 5957,
+    "timeMonth": 2851,
+    "timeYear": 1557,
     "dailyMinutesDown": {
       "2025-07-15": 19,
       "2025-12-08": 19,
@@ -183,7 +183,7 @@
       "2026-03-27": 30,
       "2026-04-03": 132,
       "2026-04-12": 87,
-      "2026-07-09": 0
+      "2026-07-09": 148
     }
   }
 ]
