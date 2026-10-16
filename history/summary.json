@@ -35,7 +35,7 @@
     "uptimeYear": "99.99%",
     "time": 240,
     "timeDay": 119,
-    "timeWeek": 246,
+    "timeWeek": 252,
     "timeMonth": 228,
     "timeYear": 244,
     "dailyMinutesDown": {
@@ -55,7 +55,7 @@
     "uptimeYear": "98.91%",
     "time": 1290,
     "timeDay": 146,
-    "timeWeek": 619,
+    "timeWeek": 641,
     "timeMonth": 574,
     "timeYear": 1095,
     "dailyMinutesDown": {
@@ -76,14 +76,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/data.perio.do.ico",
     "slug": "period-o-csv",
     "status": "up",
-    "uptime": "99.48%",
+    "uptime": "99.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.87%",
     "time": 495,
     "timeDay": 58,
-    "timeWeek": 334,
+    "timeWeek": 338,
     "timeMonth": 335,
     "timeYear": 497,
     "dailyMinutesDown": {
@@ -110,7 +110,7 @@
     "uptimeYear": "98.98%",
     "time": 1147,
     "timeDay": 1719,
-    "timeWeek": 2312,
+    "timeWeek": 2456,
     "timeMonth": 1588,
     "timeYear": 1147,
     "dailyMinutesDown": {
@@ -143,7 +143,7 @@
     "uptimeYear": "100.00%",
     "time": 127,
     "timeDay": 23,
-    "timeWeek": 182,
+    "timeWeek": 184,
     "timeMonth": 178,
     "timeYear": 132,
     "dailyMinutesDown": {}
@@ -153,17 +153,17 @@
     "url": "https://test.perio.do",
     "icon": "https://icons.duckduckgo.com/ip3/test.perio.do.ico",
     "slug": "period-o-legacy-subdomain",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 1538,
-    "timeDay": 1392,
-    "timeWeek": 1482,
-    "timeMonth": 1580,
-    "timeYear": 1602,
+    "time": 1619,
+    "timeDay": 20325,
+    "timeWeek": 6193,
+    "timeMonth": 2795,
+    "timeYear": 1701,
     "dailyMinutesDown": {
       "2025-12-08": 19,
       "2026-01-06": 18,
@@ -171,7 +171,8 @@
       "2026-03-27": 30,
       "2026-04-03": 132,
       "2026-04-12": 87,
-      "2026-07-09": 148
+      "2026-07-09": 148,
+      "2026-10-16": 0
     }
   }
 ]
